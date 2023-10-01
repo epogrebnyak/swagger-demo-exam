@@ -4,9 +4,9 @@ info:
   description: |
     API системы для проведения демонстрационного экзамена
     (защиты командного проекта).
-    
+
     ---
-  
+
     Not edited below:
 
     Some useful links:
@@ -31,7 +31,7 @@ servers:
   - url: https://petstore3.swagger.io/api/v3
 tags:
   - name: program
-    description: "Учебные программы"  
+    description: "Учебные программы"
     externalDocs:
       description: Find out more
       url: http://swagger.io
